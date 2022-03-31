@@ -15,8 +15,9 @@ pip install -r Requirement.txt
 To start the Game:
 python tictactoe.py
 
-![First_Page](https://user-images.githubusercontent.com/52213801/160993905-9de5609e-85a0-4b6e-9815-0a636a50ebd9.PNG)
-![Gameplay](https://user-images.githubusercontent.com/52213801/160994129-cdcd2376-73d0-454d-bf48-5eeb04017275.PNG)
+<img alt="First Screen" src="https://user-images.githubusercontent.com/52213801/160993905-9de5609e-85a0-4b6e-9815-0a636a50ebd9.PNG"  width="50%" height="50%" />
+<img alt="Gameplay" src="https://user-images.githubusercontent.com/52213801/160994129-cdcd2376-73d0-454d-bf48-5eeb04017275.PNG"  width="50%" height="50%" />
+
 
 
 
