@@ -1,9 +1,21 @@
 # TicTakToe
 Tic Tak Toe Game
 
-# REQUIREMENTS
-PYGAME 
+# Requirements
+Python==2.1.2
 
-pip install pygame
- 
-pip3 install pygame
+Make sure Python and Pip already installed in system.
+# Setup
+
+git clone https://github.com/gaurav139v/TicTakToe
+
+Move to tictaktoe directory
+pip install -r Requirement.txt
+
+To start the Game:
+python tictactoe.py
+
+![First Page](../First_screen.PNG)
+![Gameplay](../Gameplay.PNG)
+
+
