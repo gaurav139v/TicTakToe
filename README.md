@@ -9,13 +9,14 @@ Make sure Python and Pip already installed in system.
 
 git clone https://github.com/gaurav139v/TicTakToe
 
-Move to tictaktoe directory
+Move to tictaktoe directory\
 pip install -r Requirement.txt
 
 To start the Game:
 python tictactoe.py
 
-![First Page](../First_screen.PNG)
-![Gameplay](../Gameplay.PNG)
+![First_Page](https://user-images.githubusercontent.com/52213801/160993905-9de5609e-85a0-4b6e-9815-0a636a50ebd9.PNG)
+![Gameplay](https://user-images.githubusercontent.com/52213801/160994129-cdcd2376-73d0-454d-bf48-5eeb04017275.PNG)
+
 
 
