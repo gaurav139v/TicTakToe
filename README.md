@@ -2,7 +2,7 @@
 Tic Tak Toe Game
 
 # Requirements
-Python==2.1.2
+Pygame==2.1.2
 
 Make sure Python and Pip already installed in system.
 # Setup
